@@ -1,4 +1,11 @@
 # COMP8220
+## Assessment
+Compiled using Jupyter Notebook<br/>
+1. Used k-Nearest Neighbor Classifier for the 10 tasks given<br/>
+   _dataset:_
+   * Pima Indians Diabetes Dataset
+      - Originally from the National Institute of Diabetes and Digestive and Kidney Disease
+      
 ## Datasets
 Contains datasets for lecture and workshop notebooks
 
@@ -29,10 +36,3 @@ __Practical 4__
    * data_1.csv
    * data_2.csv
    * data_3.csv
-   
-## Assessment
-Compiled using Jupyter Notebook<br/>
-1. Used k-Nearest Neighbor Classifier for the 10 tasks given<br/>
-   _dataset:_
-   * Pima Indians Diabetes Dataset
-      - Originally from the National Institute of Diabetes and Digestive and Kidney Disease
