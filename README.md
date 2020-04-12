@@ -1,8 +1,8 @@
-### COMP8220
-# Datasets
+# COMP8220
+## Datasets
 * contains datasets for lecture and workshop notebooks
 
-# Workshop
+## Workshop
 __Practical 1__
 1. Numpy
 2. Matplotlib
