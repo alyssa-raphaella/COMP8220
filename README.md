@@ -3,7 +3,7 @@
 Contains datasets for lecture and workshop notebooks
 
 ## Workshop
-Compiled using Google Colab
+Compiled using Google Colab<br/>
 __Practical 1__
 1. Numpy
 2. Matplotlib
@@ -14,7 +14,7 @@ __Practical 1__
     * oecd_bli_2015.csv
     * gdp_per_capita.csv
     
- __Practical 3__
+ __Practical 2__
 1. k-Nearest Neighbor
 2. kNeighbor Classifier
 3. k-Fold Cross-Validation<br/>
@@ -31,4 +31,9 @@ __Practical 4__
    * data_3.csv
    
 ## Assessment
-Compiled using Jupyter Notebook
+Compiled using Jupyter Notebook<br/>
+   _goal:_
+   * use k-Nearest Neighbor Classifier for 10 tasks given
+   _dataset:_
+   * Pima Indians Diabetes Dataset
+      - Originally from the National Institute of Diabetes and Digestive and Kidney Disease
