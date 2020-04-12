@@ -1,6 +1,6 @@
 # COMP8220
 ## Datasets
-* contains datasets for lecture and workshop notebooks
+Contains datasets for lecture and workshop notebooks
 
 ## Workshop
 __Practical 1__
@@ -9,7 +9,7 @@ __Practical 1__
 3. Pandas
 4. Scipy
 5. Life Satisfaction example
-  datasets:
+_datasets:_
     * oecd_bli_2015.csv
     * gdp_per_capita.csv
     
