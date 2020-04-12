@@ -32,8 +32,8 @@ __Practical 4__
    
 ## Assessment
 Compiled using Jupyter Notebook<br/>
-   _goal:_
-      * use k-Nearest Neighbor Classifier for 10 tasks given<br/>
-   _dataset:_
-      * Pima Indians Diabetes Dataset
-         - Originally from the National Institute of Diabetes and Digestive and Kidney Disease
+_goal:_
+* use k-Nearest Neighbor Classifier for 10 tasks given<br/>
+_dataset:_
+* Pima Indians Diabetes Dataset
+   - Originally from the National Institute of Diabetes and Digestive and Kidney Disease
