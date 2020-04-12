@@ -1,4 +1,4 @@
-# COMP8220
+# COMP8220 - Machine Learning (S1 2020)
 ## Assessment
 Compiled using Jupyter Notebook<br/>
 1. Used k-Nearest Neighbor Classifier for the 10 tasks given<br/>
