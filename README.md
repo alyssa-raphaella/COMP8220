@@ -17,14 +17,14 @@ __Practical 1__
  __Practical 3__
 1. k-Nearest Neighbor
 2. kNeighbor Classifier
-3. k-Fold Cross-Validation<br\>
+3. k-Fold Cross-Validation<br/>
    _dataset:_
     * iris_dataset
 
 __Practical 4__
 1. SVM with Linear Kernel
 2. SVM with Gaussian Kernel
-3. SVM with Cross-Validation<br\>
+3. SVM with Cross-Validation<br/>
    _datasets:_
    * data_1.csv
    * data_2.csv
