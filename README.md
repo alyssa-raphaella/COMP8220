@@ -8,8 +8,8 @@ __Practical 1__
 2. Matplotlib
 3. Pandas
 4. Scipy
-5. Life Satisfaction example \n
-_datasets:_
+5. Life Satisfaction example
+   _datasets:_
     * oecd_bli_2015.csv
     * gdp_per_capita.csv
     
